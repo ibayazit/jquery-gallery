@@ -2,8 +2,8 @@
 a gallery script with using jQuery
 
 ![](picture1.png)
-![](picture1.png)
-![](picture1.png)
+![](picture2.png)
+![](picture3.png)
 
 # How to use
 ```html
