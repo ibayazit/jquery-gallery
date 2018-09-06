@@ -1,8 +1,11 @@
 # jquery-gallery
 a gallery script with using jQuery
 
+##### Sample image with using bootstrap 4 cards
 ![](picture1.png)
+##### Sample image with data-text
 ![](picture2.png)
+##### Sample image without data-text
 ![](picture3.png)
 
 # How to use
